@@ -50,7 +50,7 @@
 
 <p><img align="left" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanx00&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="aryanx00" />
 </p>
-    <p align="right"><a href="https://github.com/aryanx00/github-readme-streak-stats">
+    <p align="right" width="100px"><a href="https://github.com/aryanx00/github-readme-streak-stats">
     <img  alt="Bishal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanx00&theme=react&hide_border=true&stroke=0000&background=060A0CD0"/></a></p>
 
 
